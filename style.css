@@ -1,0 +1,86 @@
+body
+{
+    background-image: linear-gradient(rgb(217, 175, 235), rgb(247, 179, 219));
+    text-align: center;
+}
+.container
+{
+    text-align: center;
+}
+#img1{
+  width: 100%;
+}
+.img2{
+    width: 250px;
+    height: 200px;
+}
+.thumb{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.modal-content
+{
+  margin-top: 100px;
+}
+
+.img_modal
+  {
+    display: inline-block;
+  }
+
+.modal-body
+{
+    text-align: center
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+#myCarousel
+{
+    background-color: red;
+}
+
+#myCarousel img
+{
+    height: 350px;
+       }
+
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
+
+#myCarousel
+{
+    width: 70%;
+    
+}
+#myNavbar1
+{
+    background-color: rgb(238, 207, 235);
+    height:60px;
+    padding: 20px;
+    margin-top:0;
+    text-align: center;
+    
+}
+#myNavbar1 a
+{
+    color:black;
+
+}
+#myNavbar1 a:hover{
+    font-size: 30px;
+}
